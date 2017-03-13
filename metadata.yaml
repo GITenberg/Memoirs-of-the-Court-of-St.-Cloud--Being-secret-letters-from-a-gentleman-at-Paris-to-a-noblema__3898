@@ -1,5 +1,8 @@
 _repo: Memoirs-of-the-Court-of-St.-Cloud--Being-secret-letters-from-a-gentleman-at-Paris-to-a-noblema__3898
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Goldsmith, Lewis
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '8389'
     url: http://www.gutenberg.org/2009/agents/8389
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3898#Memoirs-of-the-Court-of-St.-Cloud--Being-secret-letters-from-a-gentleman-at-Paris-to-a-noblema_
 gutenberg_issued: '2004-12-04'
 gutenberg_type: Text
 identifiers:
